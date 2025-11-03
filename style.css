@@ -1,0 +1,14 @@
+body {
+  background-color: #f2f2f2;   /* light gray background */
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #0078d7;              /* blue heading */
+}
+
+p {
+  color: #333;                 /* dark gray text */
+  font-size: 18px;
+}
